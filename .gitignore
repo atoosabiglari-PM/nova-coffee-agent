@@ -1,0 +1,7 @@
+.venv/
+.venv_old/
+__pycache__/
+.adk/
+nova_approvals.json
+*.pyc
+.DS_Store
